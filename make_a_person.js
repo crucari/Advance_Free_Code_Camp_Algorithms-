@@ -1,5 +1,5 @@
 var Person = function(firstAndLast) {
-  // Complete the method below and implement the others similarly
+  // Complete the method below and implement the others similarly  //getting the full name
   this.getFullName = function() {
     return "";
   };
